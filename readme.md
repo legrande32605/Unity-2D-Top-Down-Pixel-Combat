@@ -17,9 +17,12 @@ Building a 2D RPG Combat system in Unity
 - Part 1 - 5: These are the introduction to the course and system set up instructions that are common in all the course.  They are using Unity Editor 22.2f1.  My version is 22.1f1.  I am hoping that is close enough that I will not run into issues following the course.  I can update that at a later time if necessary.  Not much else to show for the course in this sections.  I've been using VS Code for years now and already had the necessary extensions from another Unity course I have started.
 ### Section 2 - Player Movement
 - Part 1: The Introduction   
-[![The Introduction](./Renders/Thumb%20-%20The%20Torso.png)](./Renders/The%20Torso.png)
-- Part 2: Player Input System   
-[![Player Input System](./Renders/Thumb%20-%20The%20Chest%20and%20Buttocks.png)](./Renders/The%20Chest%20and%20Buttocks.png)
+This part was a quick overview of what will be coming through the rest of this section.  No development happens here
+- Part 2: Player Input System  
+We created a simple sprite (triange) and put it into the middle of our camera view.  Next we incorporated the Unity 2D movement system and linked everything together so we can move the sprite around.   
+![The Playfield](./Images/The%20Playfield.png)
+
+<!---
 - Part 3: Import Player Sprites   
 [![Import Player Sprites](./Renders/Thumb%20-%20The%20Legs.png)](./Renders/The%20Legs.png)
 - Part 4: Animating the Player   

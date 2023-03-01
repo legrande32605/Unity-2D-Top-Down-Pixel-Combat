@@ -19,9 +19,11 @@ Building a 2D RPG Combat system in Unity
 - Part 1: The Introduction   
 This part was a quick overview of what will be coming through the rest of this section.  No development happens here
 - Part 2: Player Input System  
-We created a simple sprite (triange) and put it into the middle of our camera view.  Next we incorporated the Unity 2D movement system and linked everything together so we can move the sprite around.   
+We created a simple sprite (triange) and put it into the middle of our camera view.  Next we incorporated the Unity 2D movement system and linked everything together so we can move the sprite around.  I did the File -> Build and Run and was able to play the game.  Had to close it using Task Manager as there was no exit path built into the game yet.
 ![The Playfield](./Images/The%20Playfield.png)
-
+- Part 3: Import Player Sprites  
+The player sprites reels were imported and split into segments.  We then replaced the triange with the first image of the idle player
+![Hero Sprite](./Images/Hero%20Sprite.png)
 <!---
 - Part 3: Import Player Sprites   
 [![Import Player Sprites](./Renders/Thumb%20-%20The%20Legs.png)](./Renders/The%20Legs.png)

@@ -22,8 +22,11 @@ This part was a quick overview of what will be coming through the rest of this s
 We created a simple sprite (triange) and put it into the middle of our camera view.  Next we incorporated the Unity 2D movement system and linked everything together so we can move the sprite around.  I did the File -> Build and Run and was able to play the game.  Had to close it using Task Manager as there was no exit path built into the game yet.  
 ![The Playfield](./Images/The%20Playfield.png)
 - Part 3: Import Player Sprites  
-The player sprites reels were imported and split into segments.  We then replaced the triange with the first image of the idle player  
+The player sprites reels were imported and split into segments.  We then replaced the triange with the first image of the idle player.  
 ![Hero Sprite](./Images/Hero%20Sprite.png)
+- Part 4: Animating the Player  
+In this unit we set it up so ASDW now moves the player.  Then we added animations.  The idle has the character bouncing up and down in place.  The running has a running motion.  Finally we set it up so the play icon flips so that it is always facing the mouse.  
+![Animating the Player](./Images/Animating%20the%20Player.png)
 <!---
 - Part 3: Import Player Sprites   
 [![Import Player Sprites](./Renders/Thumb%20-%20The%20Legs.png)](./Renders/The%20Legs.png)
